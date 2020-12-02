@@ -1,4 +1,5 @@
 #include <iostream>
+<<<<<<< HEAD
 #include <map>
 #include <fstream>
 #include <string>
@@ -73,4 +74,12 @@ int main() {
 	//set data into 2 data structures
 	data.close();
 	return 0;
+=======
+
+using namespace std;
+
+int main(){
+    cout << "test" << endl;
+    return 0;
+>>>>>>> 0a49341d8c54efb582ea07fb6dc73cf4e01bf9cb
 }
