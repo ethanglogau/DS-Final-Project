@@ -1,0 +1,139 @@
+3150
+You| Monifah| 0.49| 0.626| 0.547| 0.267
+First World Problemz / Nobody Carez| Brent Faiyaz| 0.555| 0.582| 0.502| 0.259
+Can I Get A Witness - Alternate Vocal| The Supremes| 0.516| 0.625| 0.572| 0.31
+Player's Ball (Reprise)| OutKast| 0.534| 0.616| 0.542| 0.264
+Dance with Me (feat. Kelsea Ballerini)| Morgan Evans, Kelsea Ballerini| 0.462| 0.611| 0.519| 0.481
+Panorama| The Cars| 0.579| 0.519| 0.582| 0.418
+Close to Heaven| Color Me Badd| 0.49| 0.642| 0.51| 0.217
+Doin' Time| Lana Del Rey| 0.496| 0.649| 0.538| 0.372
+The Weight - Remastered| The Band| 0.518| 0.63| 0.551| 0.373
+Someone to Hold| Trey Lorenz| 0.543| 0.594| 0.543| 0.448
+What A Woman| Howlin Wolf, Eric Clapton, Steve Winwood, Bill Wyman, Charlie Watts, Hubert Sumlin| 0.551| 0.547| 0.561| 0.413
+Make Me Better| Fabolous, Ne-Yo| 0.562| 0.607| 0.599| 0.33
+Just Wanna Love You Tonight| Average White Band| 0.565| 0.572| 0.635| 0.412
+True Love| Glenn Frey| 0.453| 0.561| 0.534| 0.418
+Amazing| Kanye West, Jeezy| 0.496| 0.588| 0.554| 0.216
+I Like Tuh| Carnage, ILOVEMAKONNEN| 0.563| 0.617| 0.545| 0.334
+Imaginary Playmates| Rene & Angela| 0.505| 0.571| 0.629| 0.434
+After The Lights Go Down Low| Marvin Gaye, Mary Wells| 0.59| 0.616| 0.552| 0.215
+Experiencia Religiosa| Enrique Iglesias| 0.457| 0.647| 0.629| 0.657
+Little Young Lover| The Impressions| 0.591| 0.568| 0.501| 0.724
+To Turn You On - Remastered| Roxy Music| 0.466| 0.647| 0.61| 0.616
+Into You (feat. Tamia)| Fabolous, Tamia| 0.58| 0.546| 0.538| 0.233
+This City Never Sleeps - Remastered Version| Eurythmics, Annie Lennox, Dave Stewart| 0.516| 0.556| 0.538| 0.256
+Home This Christmas| Justin Bieber, The Band Perry| 0.493| 0.54| 0.628| 0.268
+Wish That You Were Mine| The Manhattans| 0.574| 0.621| 0.534| 0.555
+Sweet Lady| Tyrese| 0.584| 0.588| 0.522| 0.233
+Family Reunion| The OJays| 0.51| 0.637| 0.639| 0.562
+It's Been a Long Time| The New Birth| 0.527| 0.596| 0.598| 0.605
+Come Back| Keith Sweat| 0.502| 0.504| 0.514| 0.207
+Can't Be Wasting My Time - One Dread One Ball Head Version| Mona Lisa, Lost Boyz, Tom Buttnaked Dawg, Mr. Sex| 0.594| 0.542| 0.645| 0.218
+Pass You By| Boyz II Men| 0.493| 0.603| 0.566| 0.219
+Skin| Mac Miller| 0.481| 0.614| 0.591| 0.527
+The Weight| The Band| 0.538| 0.625| 0.524| 0.219
+Right On| Marvin Gaye| 0.563| 0.532| 0.589| 0.216
+Just Like You| Roxy Music| 0.59| 0.587| 0.582| 0.385
+Notice Me| PnB Rock| 0.55| 0.597| 0.645| 0.457
+Great One| Jessie Reyez| 0.48| 0.559| 0.507| 0.412
+Lose Somebody| Kygo, OneRepublic| 0.507| 0.58| 0.586| 0.344
+Straight into Your Arms - Bonus Track Version| Vance Joy| 0.461| 0.645| 0.557| 0.224
+Hakuna Matata| Billy Eichner, Seth Rogen, JD McCrary, Childish Gambino| 0.575| 0.53| 0.584| 0.274
+When U Cry| SWV| 0.503| 0.532| 0.527| 0.412
+Little Ghetto Boy| Donny Hathaway| 0.594| 0.535| 0.509| 0.729
+Mack The Knife| Frank Sinatra, Quincy Jones| 0.565| 0.596| 0.615| 0.381
+There's No Stopping Us Now| The Supremes| 0.569| 0.639| 0.601| 0.626
+When You Need Someone| Cheap Trick| 0.492| 0.649| 0.537| 0.202
+Deja Vu| Dionne Warwick| 0.587| 0.593| 0.564| 0.308
+Alone In Love| Mariah Carey| 0.573| 0.636| 0.511| 0.323
+I'm Like A Bird - Recorded at Spotify Studios NYC| Alessia Cara| 0.582| 0.524| 0.639| 0.238
+Promise To Love| Kem| 0.505| 0.612| 0.504| 0.318
+Sealed with a Kiss| Jason Donovan| 0.539| 0.532| 0.542| 0.503
+Don't Panic| Coldplay| 0.453| 0.602| 0.612| 0.206
+Room in Your Heart| Living In A Box| 0.593| 0.555| 0.517| 0.405
+Danke Sch��n| Martha Reeves & The Vandellas| 0.544| 0.537| 0.563| 0.597
+Breaking Us In Two| Joe Jackson| 0.497| 0.644| 0.554| 0.385
+The Moon and the Sky| Sade| 0.513| 0.595| 0.555| 0.61
+Down Here on the Ground| George Benson| 0.581| 0.52| 0.585| 0.635
+Show Me the Way| Regina Belle| 0.54| 0.589| 0.631| 0.518
+Keep It To Yourself| Kacey Musgraves| 0.552| 0.641| 0.622| 0.57
+Heaven Is 10 Zillion Light Years Away| Stevie Wonder| 0.495| 0.563| 0.602| 0.365
+Fast Car| Jonas Blue, Dakota| 0.527| 0.644| 0.57| 0.484
+Let's Make a Baby| Billy Paul| 0.549| 0.63| 0.583| 0.719
+Lonely| Janet Jackson| 0.563| 0.54| 0.624| 0.449
+Fly Me To The Moon (In Other Words)| Bobby Womack| 0.585| 0.589| 0.523| 0.397
+Para Tu Amor| Juanes| 0.531| 0.602| 0.506| 0.425
+Hurt| The Manhattans| 0.591| 0.561| 0.56| 0.612
+Another Satellite - Remastered 2001| XTC| 0.538| 0.635| 0.514| 0.437
+Still In Love With You| Cher| 0.512| 0.616| 0.579| 0.296
+Everybody Needs Love| Marvin Gaye| 0.457| 0.601| 0.506| 0.477
+Gotta Get You Home Tonight| Eugene Wilde| 0.575| 0.623| 0.633| 0.277
+Low Lights| Kanye West| 0.523| 0.603| 0.593| 0.706
+Would That I| Hozier| 0.502| 0.521| 0.526| 0.243
+ILYSB| LANY| 0.459| 0.623| 0.627| 0.603
+Put That Woman First| Jaheim| 0.513| 0.649| 0.536| 0.492
+Why Christmas| Boyz II Men| 0.577| 0.574| 0.637| 0.359
+Waiting In Vain| Annie Lennox, Heff Moraes| 0.489| 0.516| 0.644| 0.42
+Blue - Live in China| Wham!| 0.533| 0.544| 0.543| 0.351
+On Silent Wings| Tina Turner| 0.518| 0.519| 0.581| 0.253
+Building a Mystery| Sarah McLachlan| 0.472| 0.505| 0.518| 0.403
+Remember Me (D��o)| Miguel, Natalia Lafourcade| 0.573| 0.611| 0.553| 0.415
+What Keeps You Up At Night| Dan + Shay| 0.534| 0.588| 0.533| 0.425
+Pink + White| Frank Ocean| 0.554| 0.544| 0.552| 0.67
+This I Promise You| *NSYNC| 0.466| 0.55| 0.587| 0.354
+I'll Give All My Love to You| Keith Sweat| 0.453| 0.62| 0.514| 0.431
+Sunrise (feat. Jason Walker)| Kygo, Jason Walker| 0.476| 0.636| 0.6| 0.211
+I Am Not a Robot| MARINA| 0.452| 0.606| 0.636| 0.57
+Sem Limites Pra Sonhar (Reaching For The Infinite Heart) (feat. Bonnie Tyler)| FÃ¡bio Jr., Bonnie Tyler| 0.483| 0.522| 0.617| 0.209
+cardigan| Taylor Swift| 0.551| 0.613| 0.581| 0.537
+Tommy Lee (feat. SAINt JHN & Post Malone) - Remix| Tyla Yaweh, SAINt JHN, Post Malone| 0.557| 0.504| 0.597| 0.206
+Young Nation| Aaliyah| 0.578| 0.579| 0.58| 0.561
+Push My Luck| The Chainsmokers| 0.523| 0.563| 0.645| 0.293
+Wasted Time| Vance Joy| 0.454| 0.602| 0.603| 0.408
+Another Night| Mac Miller| 0.568| 0.61| 0.576| 0.608
+Mirrors| Justin Timberlake| 0.512| 0.574| 0.512| 0.234
+Take A Bow (Glee Cast Version)| Glee Cast| 0.55| 0.622| 0.526| 0.406
+I DON'T LOVE YOU ANYMORE| Tyler, The Creator| 0.584| 0.638| 0.522| 0.352
+Listen to the Man| George Ezra| 0.538| 0.599| 0.551| 0.503
+Will You Love Me Tomorrow?| Cher| 0.537| 0.522| 0.598| 0.493
+Private Dancer - 2015 Remaster| Tina Turner| 0.471| 0.587| 0.572| 0.363
+L.A. Is My Lady| Frank Sinatra, Quincy Jones| 0.572| 0.504| 0.519| 0.653
+Lloro Por Ti - Remix| Enrique Iglesias, Wisin & Yandel| 0.516| 0.623| 0.648| 0.534
+You Got Me| Colbie Caillat| 0.489| 0.636| 0.517| 0.382
+Lonely| Akon| 0.595| 0.632| 0.533| 0.351
+This Is It| Michael Jackson| 0.56| 0.636| 0.648| 0.604
+Husband| Shirley Murdock| 0.488| 0.605| 0.535| 0.287
+Home| Stephanie Mills| 0.577| 0.542| 0.566| 0.522
+Get Out Of My House| Kate Bush| 0.51| 0.514| 0.623| 0.481
+My Cherie Amour| Stevie Wonder| 0.514| 0.574| 0.507| 0.228
+We're in This Love Together| Al Jarreau| 0.563| 0.63| 0.539| 0.582
+Real Love| Lakeside| 0.589| 0.541| 0.585| 0.493
+A.M.| One Direction| 0.506| 0.586| 0.527| 0.227
+Be Alright| Dean Lewis| 0.493| 0.551| 0.537| 0.705
+Lay Lady Lay| Duran Duran| 0.51| 0.518| 0.638| 0.311
+Moving Target| The Outfield| 0.48| 0.52| 0.622| 0.275
+NO HALO| BROCKHAMPTON| 0.47| 0.643| 0.573| 0.41
+Slow Jams| Quincy Jones, Babyface, Tamia, Portrait, Barry White| 0.488| 0.616| 0.553| 0.551
+Crucify - 2015 Remaster| Tori Amos| 0.468| 0.506| 0.594| 0.283
+Missed Calls| Mac Miller| 0.464| 0.558| 0.535| 0.643
+Miracle| Whitney Houston| 0.5| 0.627| 0.55| 0.273
+Assassin| John Mayer| 0.593| 0.54| 0.643| 0.302
+With a Smile (feat. Kelly Badon)| South Border, Kelly Badon| 0.507| 0.523| 0.534| 0.479
+Meant to Be Yours| Ryan McCartan, Barrett Wilbert Weed, Michelle Duffy| 0.585| 0.505| 0.589| 0.514
+Wake up Everybody (feat. Teddy Pendergrass)| Harold Melvin & The Blue Notes, Teddy Pendergrass| 0.481| 0.503| 0.552| 0.444
+More Power To Ya - More Power To Ya Album Version| Petra| 0.519| 0.521| 0.538| 0.617
+I Still Can't Get Over Loving You| Ray Parker Jr.| 0.562| 0.611| 0.502| 0.22
+Somebody Loves You Baby (You Know Who It Is)| Patti LaBelle| 0.472| 0.626| 0.637| 0.571
+Lonely| Akon| 0.578| 0.633| 0.529| 0.307
+Right Now| Al B. Sure!| 0.47| 0.635| 0.522| 0.306
+Cater 2 U| Destinys Child| 0.464| 0.605| 0.584| 0.286
+Back for Good - Radio Mix| Take That| 0.547| 0.6| 0.504| 0.308
+Have You Met Miss Jones?| Robbie Williams| 0.533| 0.558| 0.507| 0.329
+Send One Your Love| Stevie Wonder| 0.524| 0.605| 0.564| 0.459
+Window Seat| Erykah Badu| 0.564| 0.643| 0.535| 0.648
+Phoenix| A$AP Rocky| 0.519| 0.644| 0.515| 0.589
+How Does It Feel| Bloodstone| 0.469| 0.557| 0.536| 0.373
+Candlelight & You| ChantÃ© Moore, Keith Washington| 0.459| 0.615| 0.581| 0.227
+Something For Nothing (feat. Thom Bell)| MFSB, Thom Bell| 0.577| 0.564| 0.646| 0.582
+Lose Somebody| Kygo, OneRepublic| 0.507| 0.58| 0.586| 0.344
+Don't Love You No More (I'm Sorry)| Craig David| 0.572| 0.636| 0.558| 0.462
