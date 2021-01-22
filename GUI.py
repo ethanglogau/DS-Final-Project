@@ -7,7 +7,8 @@ import pandas as pd
 from queue import Queue
 
 #have to get a new spotify token before using this
-spotify_token = "BQAnB0Nk10jYJrbyFvTLb8UbBxVClB1x-1iJdhNf_6XbMcsgqYn5P7cw5H03lGLxuWDN-xRMqFLojJL7wmEaKPsCjHjP01lrOk51potvO0VYL6g9RzLQxrhri655zw330CCb6Ne95g4ReRU"
+self = ""
+spotify_token = ""
 class songRec:
 
     def search_track(self, song_name):
@@ -47,12 +48,12 @@ class songRec:
         return songs
 
 def findID2(_song, _artist):
-    returnedSongs = songRec.search_track_and_artist("0f2a3b6474214d87b144419b7ac084cd", _song, _artist)
+    returnedSongs = songRec.search_track_and_artist(self, _song, _artist)
     return returnedSongs[0]["id"]
 
 
 def findID(_song):
-    returnedSongs = songRec.search_track("0f2a3b6474214d87b144419b7ac084cd", _song);
+    returnedSongs = songRec.search_track(self, _song);
     if len(returnedSongs) > 1:
         return "input artist"
     else:
@@ -60,7 +61,7 @@ def findID(_song):
 
 
 
-returnedSongs = songRec.search_track("0f2a3b6474214d87b144419b7ac084cd", "Feeling Whitney")
+returnedSongs = songRec.search_track(self, "Feeling Whitney")
 for i in returnedSongs:
     print(i["id"])
 
